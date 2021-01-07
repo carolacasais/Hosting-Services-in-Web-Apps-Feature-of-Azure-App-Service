@@ -1,6 +1,6 @@
 # Hosting Services in Web Apps Feature of Azure App Service
 
-Usando FTP y Publish
+## Usando FTP y Publish
 
 ![imagen](img1.png)
 ![imagen](img2.png)
